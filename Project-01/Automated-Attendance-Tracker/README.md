@@ -47,7 +47,7 @@ Unlike traditional manual attendance sheets, this tracker automatically calculat
 
 ## Monthly Report
 
-![Monthly Report](Images/Monthly.png)
+![Monthly Report](Images/MonthlyReport.png)
 
 ---
 
