@@ -1,6 +1,6 @@
 # 📊 Excel Data Analytics Projects
 
-![Banner](Project-01-Automated-Attendance-Tracker/Images/Banner.png)
+![Banner](Project-01/Automated-Attendance-Tracker/Images/Banner.png)
 
 A collection of real-world Microsoft Excel projects built for Data Analytics, HR Reporting, Business Automation, Dashboard Development and KPI Reporting.
 
