@@ -1,2 +1,29 @@
-# Real-Life-Excel-Projects
-Real-life Microsoft Excel projects for Data Analytics, dashboards, formulas, Pivot Tables, charts, data cleaning, automation, and business reporting.
+# Microsoft Excel Projects
+
+A collection of real-life Microsoft Excel projects created for learning and portfolio purposes.
+
+Projects include:
+
+✔ Dashboards
+
+✔ Attendance Systems
+
+✔ Salary Calculators
+
+✔ Data Cleaning
+
+✔ Automation
+
+✔ Pivot Tables
+
+✔ Charts
+
+✔ Lookup Functions
+
+✔ Conditional Formatting
+
+✔ Data Validation
+
+✔ Excel Formulas
+
+More projects will be added regularly.
