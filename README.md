@@ -26,4 +26,21 @@ Projects include:
 
 ✔ Excel Formulas
 
+
+##Topics-
+
+excel
+microsoft-excel
+excel-dashboard
+excel-project
+excel-analytics
+data-analysis
+data-analytics
+pivot-table
+power-query
+business-analysis
+dashboard
+excel-formulas
+portfolio
+
 More projects will be added regularly.
