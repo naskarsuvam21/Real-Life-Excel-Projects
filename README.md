@@ -1,46 +1,70 @@
-# Microsoft Excel Projects
+# 📊 Excel Data Analytics Projects
 
-A collection of real-life Microsoft Excel projects created for learning and portfolio purposes.
+![Banner](Project-01-Automated-Attendance-Tracker/Images/Cover.png)
 
-Projects include:
+A collection of real-world Microsoft Excel projects built for Data Analytics, HR Reporting, Business Automation, Dashboard Development and KPI Reporting.
 
-✔ Dashboards
+---
 
-✔ Attendance Systems
+# 🚀 Featured Project
 
-✔ Salary Calculators
+## 📌 Automated Attendance Tracker Dashboard
 
-✔ Data Cleaning
+A complete Microsoft Excel solution for managing employee attendance and generating yearly reports.
 
-✔ Automation
+### Features
 
-✔ Pivot Tables
+✅ Employee Attendance Tracking
 
-✔ Charts
+✅ Monthly Attendance Sheets
 
-✔ Lookup Functions
+✅ Yearly Report Generation
 
-✔ Conditional Formatting
+✅ Business Reporting
 
-✔ Data Validation
+✅ HR Dashboard
 
-✔ Excel Formulas
+✅ Excel Automation
 
+---
 
-## Topics-
+## Skills Used
 
-excel
-microsoft-excel
-excel-dashboard
-excel-project
-excel-analytics
-data-analysis
-data-analytics
-pivot-table
-power-query
-business-analysis
-dashboard
-excel-formulas
-portfolio
+- Microsoft Excel
+- Conditional Formatting
+- Data Validation
+- Lookup Functions
+- Dashboard Design
+- Business Reporting
 
-More projects will be added regularly.
+---
+
+## Project Structure
+
+```
+
+Project-01-Automated-Attendance-Tracker/
+
+```
+
+---
+
+## Preview
+
+![Dashboard](Project-01-Automated-Attendance-Tracker/Images/Dashboard.png)
+
+---
+
+## Connect
+
+GitHub
+
+LinkedIn
+
+YouTube
+
+Portfolio
+
+---
+
+⭐ Star this repository if you like it.
