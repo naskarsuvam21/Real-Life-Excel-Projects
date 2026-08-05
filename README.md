@@ -51,7 +51,7 @@ Project-01-Automated-Attendance-Tracker/
 
 ## Preview
 
-![Dashboard](Project-01-Automated-Attendance-Tracker/Images/Preview.png)
+![Preview](Project-01/Automated-Attendance-Tracker/Images/Preview.png)
 
 ---
 
