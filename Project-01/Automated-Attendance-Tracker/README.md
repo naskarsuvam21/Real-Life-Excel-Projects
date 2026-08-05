@@ -1,6 +1,6 @@
 # 📊 Automated Attendance Tracker (Microsoft Excel)
 
-![Cover](images/cover.png)
+![Cover](images/Cover.png)
 
 ## 📌 Project Overview
 
@@ -27,27 +27,33 @@ Unlike traditional manual attendance sheets, this tracker automatically calculat
 
 # 📸 Project Preview
 
-## Attendance Dashboard
+## Preview
 
-![Dashboard](images/dashboard.png)
+![Preview](images/Preview.png)
 
 ---
 
 ## Employee Database
 
-![Employee Database](images/employee-data.png)
+![Employee Database](images/Employee.png)
 
 ---
 
 ## Attendance Sheet
 
-![Attendance](images/attendance-sheet.png)
+![Attendance](images/Attendance.png)
 
 ---
 
 ## Monthly Report
 
-![Monthly Report](images/monthly-report.png)
+![Monthly Report](images/Monthly.png)
+
+---
+
+## Yearly Report
+
+![Yearly Report](images/YearlyReport.png)
 
 ---
 
