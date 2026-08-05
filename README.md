@@ -1,6 +1,6 @@
 # 📊 Excel Data Analytics Projects
 
-![Banner](Project-01-Automated-Attendance-Tracker/Images/Cover.png)
+![Banner](Project-01-Automated-Attendance-Tracker/Images/Banner.png)
 
 A collection of real-world Microsoft Excel projects built for Data Analytics, HR Reporting, Business Automation, Dashboard Development and KPI Reporting.
 
@@ -51,19 +51,19 @@ Project-01-Automated-Attendance-Tracker/
 
 ## Preview
 
-![Dashboard](Project-01-Automated-Attendance-Tracker/Images/Dashboard.png)
+![Dashboard](Project-01-Automated-Attendance-Tracker/Images/Preview.png)
 
 ---
 
 ## Connect
 
-GitHub
+GitHub - https://github.com/naskarsuvam21/
 
-LinkedIn
+LinkedIn - www.linkedin.com/in/suvam-naskar
 
-YouTube
+YouTube - www.youtube.com/@snexplanation
 
-Portfolio
+Portfolio - https://www.youtube.com/@snexplanation
 
 ---
 
